@@ -1,0 +1,5 @@
+variavel,descricao,tipo,subtipo
+year,,quantitativa,discreta
+country,,qualitativa,nominal
+spending_usd,,quantitativa,contínua
+life_expectancy,,quantitativa,discreta
