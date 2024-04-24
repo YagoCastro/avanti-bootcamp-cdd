@@ -1,5 +1,5 @@
 variavel,descricao,tipo,subtipo
-year,,quantitativa,discreta
-country,,qualitativa,nominal
-spending_usd,,quantitativa,contínua
-life_expectancy,,quantitativa,discreta
+year,Indica o ano em que os dados foram registrados,quantitativa,discreta
+country,Indica o país para o qual os dados se referem,qualitativa,nominal
+spending_usd,Representa o valor dos gastos com saúde em dolar para o país e o ano específico,quantitativa,contínua
+life_expectancy,Indica a expectativa de vida média em anos para o país e o ano específico,quantitativa,discreta
